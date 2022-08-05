@@ -1,10 +1,12 @@
 import React from 'react'
-import './App.css'
+import { Home } from './pages/Home'
+import GlobalStyles from './styles/global'
 
 export const App = () => {
   return (
-    <div className="App">
-      MemeMaker
-    </div>
+    <>
+      <GlobalStyles />
+      <Home/>
+    </>
   )
 }
