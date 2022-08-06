@@ -14,7 +14,7 @@
   <li type="circle">Eslint/Prettier</li>
 </ul>
 
-### API: <a href="https://api.imgflip.com">ImgFlip</a>
+### REST API: <a href="https://api.imgflip.com">ImgFlip</a>
 
 ## Install dependencies:
 
