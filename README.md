@@ -1,3 +1,5 @@
+# ⚠️ Project in progress ⚠️
+
 # MemeMaker - Generate your custom meme!
 
 <p align="center">
