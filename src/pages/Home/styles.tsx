@@ -1,4 +1,4 @@
-import styled from 'styled-components'
+import styled from 'styled-components';
 
 export const Wrapper = styled.div`
   width: 100vw;
@@ -7,7 +7,7 @@ export const Wrapper = styled.div`
   align-items: center;
   justify-content: center;
   flex-direction: column;
-`
+`;
 
 export const Card = styled.div`
   background: #fff;
@@ -15,14 +15,14 @@ export const Card = styled.div`
   border-radius: 8px;
   padding: 20px;
   margin-top: 15px;
-  box-shadow: 0 6px 10px 0 rgba(0, 0, 0, 0.20);
+  box-shadow: 0 6px 10px 0 rgba(0, 0, 0, 0.2);
 
   h2 {
     font-size: 22px;
     color: #392d2d;
     margin-bottom: 10px;
   }
-`
+`;
 
 export const Templates = styled.div`
   width: 100%;
@@ -44,7 +44,7 @@ export const Templates = styled.div`
       height: 53px;
     }
   }
-`
+`;
 
 export const Form = styled.form`
   input {
@@ -56,7 +56,7 @@ export const Form = styled.form`
     font-size: 14px;
     margin-bottom: 10px;
   }
-`
+`;
 
 export const Button = styled.button`
   width: 100%;
@@ -72,4 +72,4 @@ export const Button = styled.button`
   :hover {
     background: #3672a3;
   }
-`
+`;
