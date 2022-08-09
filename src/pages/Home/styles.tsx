@@ -26,7 +26,7 @@ export const Card = styled.div`
 
 export const Templates = styled.div`
   width: 100%;
-  height: 90px;
+  height: 120px;
   background: #eee;
   border-radius: 8px;
   overflow-y: auto;
@@ -36,12 +36,17 @@ export const Templates = styled.div`
   margin-bottom: 30px;
 
   button {
-    border: 0;
     background: transparent;
     margin-right: 10px;
+    border: 2px solid transparent;
+
+    &.selected {
+      border-color: #4395d8;
+    }
+
     img {
-      width: 53px;
-      height: 53px;
+      width: 80px;
+      height: 80px;
     }
   }
 `;
@@ -56,6 +61,19 @@ export const Form = styled.form`
     font-size: 14px;
     margin-bottom: 10px;
   }
+`;
+
+export const Container = styled.div`
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+`;
+
+export const GeneratedMeme = styled.img`
+  max-width: 400px;
+  max-height: 400px;
+  margin-bottom: 32px;
 `;
 
 export const Button = styled.button`

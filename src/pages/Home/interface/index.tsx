@@ -1,4 +1,4 @@
-export type meme = {
+export type IMeme = {
   id: string;
   name: string;
   url: string;
