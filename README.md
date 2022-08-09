@@ -4,7 +4,7 @@
   <img src="https://user-images.githubusercontent.com/63871510/183222209-18ff315c-ec4e-4436-82d7-fbe09b311498.png" width="200" alt="Mememaker Logo" />
 </p>
 
-## Deplyed: <a href="https://makememe-yucianci.netlify.app/">ImgFlip</a>
+## Deployed: <a href="https://makememe-yucianci.netlify.app/">MakeMeme - Netlify</a>
 
 ## Technologies:
 
