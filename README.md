@@ -7,7 +7,7 @@
 <br/>
 <br/>
 
-<p align="center"> Deployed in <a href="https://makememe-yucianci.netlify.app/">MakeMeme - Netlify</a> <p/>
+<p align="center"> Deployed in <a href="https://makememe-yucianci.netlify.app/">MakeMeme - Netlify</a> </p>
 ## Technologies:
 
 <ul> 
