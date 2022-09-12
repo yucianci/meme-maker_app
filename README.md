@@ -22,7 +22,7 @@
 
 ```bash
 $ npm i
- ou
+ or
 $ yarn
 ```
 
@@ -30,6 +30,6 @@ $ yarn
 
 ```bash
 $ npm run dev
-ou
+or
 $ yarn dev
 ```
